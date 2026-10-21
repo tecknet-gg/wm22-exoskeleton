@@ -25,6 +25,8 @@ The WM-22 is a pretty cool Walkman, but it doesn't have a belt clip or any way t
 
 I printed it out of PLA, but PETG might make sense for the belt clip. 25% infill for strength with 0.16mm layer lines out of a 0.4mm nozzle. Printed with a Bambu Lab A1 with Elegoo PLA+ with a 0.4 Stainless Steel nozzle. Not a particularly hard print :]
 
+The .step and the .f3d project file can be found in the root of the directory. Happy printing!
+
 
 
 
