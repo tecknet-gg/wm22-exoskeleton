@@ -15,9 +15,9 @@
 The WM-22 is a pretty cool Walkman, but it doesn't have a belt clip or any way to add a belt clip without sticking it onto the back surface with double sided tape. I made this exoskeleton to help me carry it around since its a pain to put in your pocket...
 
 
-<img width="1053" height="1714" alt="image" src="https://github.com/user-attachments/assets/c1b79362-a415-40d5-8ee9-3fe222c76733" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/c1b79362-a415-40d5-8ee9-3fe222c76733" />
 
-<img width="1017" height="1460" alt="image" src="https://github.com/user-attachments/assets/7d202e24-1b80-4444-8a0c-adc48d5f57b8" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/7d202e24-1b80-4444-8a0c-adc48d5f57b8" />
 
 
 
